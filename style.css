@@ -1,0 +1,33 @@
+@media(min-width: 500px){p{color: yellow}}
+.drink{
+	font-size: 30px;
+	font-style: italic;
+	color: red;
+}
+.cocktail{
+	color: purple
+}
+
+a{
+	color: #e2574c;
+}
+body {
+	background: url("https://static.pexels.com/photos/159291/beer-machine-alcohol-brewery-159291.jpeg");
+	background-repeat: no-repeat;
+	background-size: 1500px 1000px;
+	font-size: 14;
+	text-align: center;
+	margin: 10px 0px
+}
+
+ul{
+	list-style-position: inside;
+}
+/* this is for the ol*/
+ol{
+	list-style-position: inside;
+}
+
+.hello p{
+	background-color: yellow;
+}
